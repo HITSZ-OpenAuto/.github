@@ -14,7 +14,7 @@
 
 - 后端：我们正在将 [HITSZ-OpenAuto](https://github.com/HITSZ-OpenAuto/HITSZ-OpenAuto) 以课程为单位拆分成若干个独立的仓库，以便于管理和维护。同时，尽快为这些课程补充缺失的描述和资料。
 
-- 前端：我们正在逐步搭建无需代理即可供学生访问的网站：https://hoa.moe，并提供友好的界面和搜索功能，让不熟悉 GitHub 的同学也能方便地使用这些资料。
+- 前端：我们正在逐步搭建无需代理即可供学生访问的网站：https://hoa.moe 提供友好的界面和搜索功能，让不熟悉 GitHub 的同学也能方便地使用这些资料。
 
 ## 👩‍💻What can I do?
 
