@@ -1,8 +1,6 @@
 # HITSZ-OpenAuto
 
-哈工大（深圳）自动化课程攻略共享计划
-
-请访问我们的网站：https://hoa.moe
+[哈工大（深圳）自动化课程攻略共享计划](hoa.moe)
 
 ## 🙋‍♀️Who are we?
 
@@ -18,19 +16,8 @@
 
 ## 👩‍💻What can I do?
 
-首先，请尽情地使用我们的资源，如果你觉得它们对你有帮助，欢迎 follow 我们，或者为你喜欢的仓库点击 star。更多说明请参考 [HITSZ-OpenAuto](https://github.com/HITSZ-OpenAuto/HITSZ-OpenAuto) 的 README。
+首先，请尽情地使用我们的资源，如果你觉得它们对你有帮助，欢迎 follow 我们，或者为你喜欢的仓库点击 star。
 
-如果你有可供分享的资料，欢迎通过 Pull Request 的方式提交到对应的仓库中，我们会记录你的贡献；如果对仓库中的内容有疑问或建议，可以通过 Issue 的方式提出。
+如果你有可供分享的资料，欢迎通过 Pull Request 的方式提交到对应的仓库中，GitHub会记录你的贡献；如果对仓库中的内容有疑问或建议，可以通过 Issues 的方式提出。
 
-如果你是哈工大（深圳）的学生并且有兴趣参与我们的工作，请联系我们组织中的任何一员。我们也会关注在任意仓库中积极提交 PR 的用户并给予积极的支持。
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+如果你是哈工大（深圳）的学生并且有兴趣加入HITSZ OpenAuto，请发邮件至 [hi@hoa.moe](mailto:hi@hoa.moe) 联系我们。我们也会关注在所有仓库中提交 PR 的用户并给予及时的反馈。
