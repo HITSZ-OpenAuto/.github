@@ -1,6 +1,6 @@
 # HITSZ-OpenAuto
 
-[哈工大（深圳）自动化课程攻略共享计划](hoa.moe)
+[哈工大（深圳）自动化课程攻略共享计划](https://hoa.moe)
 
 ## 🙋‍♀️Who are we?
 
