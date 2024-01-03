@@ -1,5 +1,3 @@
-# HITSZ OpenAuto
-
 ## 关于我们
 
 我们是来自哈尔滨工业大学（深圳）自动化专业的学生，致力于分享对同学有帮助的课程攻略。为了更好地维护 [HITSZ-OpenAuto](https://github.com/HITSZ-OpenAuto/HITSZ-OpenAuto) ，我们创建了这个组织。
