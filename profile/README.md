@@ -41,3 +41,10 @@ lab # 实验课文件夹
 ### 🙋‍♀️加入我们
 
 如果你是哈工大（深圳）的学生并且有兴趣加入 HITSZ OpenAuto，请发邮件至 [hi@hoa.moe](mailto:hi@hoa.moe) 联系我们。
+
+## ❤️感谢名单
+
+由衷感谢每一位 HITSZ OpenAuto 的贡献者:
+
+![Contributors](https://contrib.nn.ci/api?repo=xiln7/HITSZ-OpenAuto&repo=HITSZ-OpenAuto/EE1011A&repo=HITSZ-OpenAuto/EE1011B&repo=HITSZ-OpenAuto/MECH2010&repo=HITSZ-OpenAuto/COMP2014&repo=HITSZ-OpenAuto/PHYS1002A&repo=HITSZ-OpenAuto/AUTO3001A&repo=HITSZ-OpenAuto/AUTO2003B&repo=HITSZ-OpenAuto/EE1012B&repo=HITSZ-OpenAuto/AUTO2005&repo=HITSZ-OpenAuto/EE1007&repo=HITSZ-OpenAuto/AUTO3016&repo=HITSZ-OpenAuto/AUTO3002A&repo=HITSZ-OpenAuto/GEIP1011&repo=HITSZ-OpenAuto/AUTO3004&repo=HITSZ-OpenAuto/EE3005&repo=HITSZ-OpenAuto/AUTO3003&repo=HITSZ-OpenAuto/MATH1005&repo=HITSZ-OpenAuto/HITSZ-Auto-Wiki&repo=HITSZ-OpenAuto/AUTO3001B&repo=HITSZ-OpenAuto/AUTO1001&repo=HITSZ-OpenAuto/AUTO3006&repo=HITSZ-OpenAuto/GEIP1016&repo=HITSZ-OpenAuto/MOOC&repo=HITSZ-OpenAuto/AUTO3007&repo=HITSZ-OpenAuto/COMP2021&repo=HITSZ-OpenAuto/ECON2005F&repo=HITSZ-OpenAuto/CHEM1012&repo=HITSZ-OpenAuto/PHYS1001B&repo=HITSZ-OpenAuto/MATH1004&repo=HITSZ-OpenAuto/PHYS1002B&repo=HITSZ-OpenAuto/GEIP1018&repo=HITSZ-OpenAuto/EMEC1002&repo=HITSZ-OpenAuto/EE1010&repo=HITSZ-OpenAuto/EE1009&repo=HITSZ-OpenAuto/EE1008&repo=HITSZ-OpenAuto/COMP2050&repo=HITSZ-OpenAuto/MATH1015A&repo=HITSZ-OpenAuto/MATH1002&repo=HITSZ-OpenAuto/LANG1006&repo=HITSZ-OpenAuto/PHYS1001A&repo=HITSZ-OpenAuto/MATH1015B&repo=HITSZ-OpenAuto/EE1012A&repo=HITSZ-OpenAuto/AUTO2006&repo=HITSZ-OpenAuto/AUTO3002B&repo=HITSZ-OpenAuto/AUTO3005&repo=HITSZ-OpenAuto/MATH3010)
+
