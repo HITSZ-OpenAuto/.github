@@ -42,7 +42,7 @@ lab # 实验课文件夹
 
 如果你是哈工大（深圳）的学生并且有兴趣加入 HITSZ OpenAuto，请发邮件至 [hi@hoa.moe](mailto:hi@hoa.moe) 联系我们。
 
-## ❤️感谢名单
+### ❤️感谢名单
 
 由衷感谢每一位 HITSZ OpenAuto 的贡献者:
 
