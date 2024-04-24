@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/HITSZ-OpenAuto/images/main/logos/HITSZOpenAutoShadow.png" style="width: 60%; display: block; margin: 0 auto;">
+<h3 align="center">
+	<img src="https://raw.githubusercontent.com/HITSZ-OpenAuto/images/main/logos/HITSZOpenAutoShadow.png" width="300" alt="Logo"/><br/>
+</h3>
 
 ## 👋关于我们
 
