@@ -1,6 +1,11 @@
+<img src="https://raw.githubusercontent.com/HITSZ-OpenAuto/images/main/logos/HITSZOpenAutoShadow.png" style="width: 60%; display: block; margin: 0 auto;">
+
 ## 👋关于我们
 
-我们是来自哈尔滨工业大学（深圳）自动化专业的学生，致力于分享对同学有帮助的课程攻略。为了更好地维护 [HITSZ-OpenAuto](https://github.com/HITSZ-OpenAuto/HITSZ-OpenAuto) ，我们创建了这个组织。
+我们是来自哈尔滨工业大学（深圳）自动化专业的学生，致力于分享对同学有帮助的课程攻略。
+
+我们起始于仓库
+[HITSZ-OpenAuto](https://github.com/HITSZ-OpenAuto/HITSZ-OpenAuto)，后来发展为现在的组织。
 
 ### 🛠️我们的项目
 
@@ -17,6 +22,8 @@
 ### 🙋‍♀️加入我们
 
 如果你是哈工大（深圳）的学生并且有兴趣加入 HITSZ OpenAuto，请发邮件至 [hi@hoa.moe](mailto:hi@hoa.moe) 联系我们。
+
+> **为了让组织的资料更新能及时适应 2023 级自动化培养方案的大改，我们现在非常需要 2023 级同学的参与！**
 
 ### ❤️感谢名单
 

@@ -1,3 +1,3 @@
 # HITSZ-OpenAuto/.github
 
-Public profile of HITSZ-OpenAuto.
+Public profile of HITSZ OpenAuto.
