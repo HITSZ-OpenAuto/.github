@@ -13,7 +13,7 @@ def get_repos(org_name, access_token):
         response = requests.get(url, headers=headers)
         response.raise_for_status()
         data = response.json()
-        repos.extend(repo['name'] for repo in data)
+        repos.extend(repo['name'] for repo in data if repo['name'] != '.github' and repo['name'] != 'hoa.moe' and not repo['private'])   
         url = response.links.get('next', {}).get('url')
     
     return repos
