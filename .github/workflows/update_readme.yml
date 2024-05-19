@@ -9,6 +9,7 @@ on:
 jobs:
   build:
     permissions:
+      contents: write
       id-token: write
     runs-on: ubuntu-latest
     steps:
@@ -36,7 +37,6 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Actions"
           git add ./profile/README.md
-          git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
           
       - name: push changes
         uses: ad-m/github-push-action@master
