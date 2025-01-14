@@ -25,7 +25,8 @@
 ## 📢 通知成员
 <!-- 由于 GitHub 不支持非成员直接 assign 成员，因此请贡献者手动 @ 成员作为额外提醒，这样方便快速通过 PR。最好是按照年级来 @，也可以找仓库的历史贡献者，因为贡献者通常对内容比较熟悉。
 
-20 级 @lmh12138 @TangLongbin
+19 级 @lmh12138
+20 级 @TangLongbin
 21 级 @OliverWu515 @Co-ding-Man
 22 级 @MaxwellJay256 @longlin10086 @AutoFriedRich
 23 级 @IcyDesert @WDGaster703 @YinMo19
