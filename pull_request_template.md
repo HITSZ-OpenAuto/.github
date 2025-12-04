@@ -29,11 +29,15 @@
 <!--
 参与者手动 @ 成员后，对应成员会收到额外的邮件等提醒，有助于更快速进行审核及通过 PR。因此非常推荐通知成员。
 可以按照年级 @，也可以找仓库的历史贡献者，因为贡献者通常对内容比较熟悉。以下是核心成员名单，选择、复制后粘贴在 📢 通知成员 下方：
-20 级 @TangLongbin
-21 级 @OliverWu515 @kowyo @Co-ding-Man
-22 级 @MaxwellJay256 @longlin10086 @AutoFriedRich
-23 级 @IcyDesert @WDGaster703 @YinMo19
-24 级 @syhanjin @mircecilia 
+自动化课程相关：
+- 20 级 @TangLongbin
+- 21 级 @OliverWu515 @kowyo @Co-ding-Man
+- 22 级 @MaxwellJay256 @longlin10086 @AutoFriedRich @chenx-dust 
+- 23 级 @IcyDesert @WDGaster703 @YinMo19
+- 24 级 @syhanjin
+计科课程相关：
+- 23 级 @Kokoro2336 
+- 24 级 @LiPu-jpg @mircecilia
 -->
 ## 📢 通知成员
 
