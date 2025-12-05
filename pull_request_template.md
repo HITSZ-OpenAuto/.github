@@ -36,8 +36,7 @@
 - 23 级 @IcyDesert @WDGaster703 @YinMo19
 - 24 级 @syhanjin
 计科课程相关：
-- 23 级 @Kokoro2336 
-- 24 级 @LiPu-jpg @mircecilia
+- 24 级 @Kokoro2336  @LiPu-jpg @mircecilia
 -->
 ## 📢 通知成员
 
