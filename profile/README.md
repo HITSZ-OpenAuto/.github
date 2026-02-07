@@ -28,6 +28,6 @@
 
 由衷感谢每一位 HITSZ OpenAuto 的参与者:
 
-![Contributors](https://contrib.hoa.moe/api?org=HITSZ-OpenAuto&exclude=.github&exclude=hoa.moe&repo=noname7321/HITSZ-OpenAuto)
+![Contributors](https://contrib.hoa.moe/api?org=HITSZ-OpenAuto&cols=21&radius=16&space=3&exclude=.github&exclude=hoa.moe&repo=noname7321/HITSZ-OpenAuto)
 
 目前仅记录在 GitHub 组织下参与的同学，但是我们同样感谢曾经通过邮件/ OpenAuto 仓库参与的同学！

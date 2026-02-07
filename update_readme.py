@@ -24,6 +24,10 @@ def generate_contributors_url(org_name):
     base_url = "https://contrib.hoa.moe/api"
     params = [
         f"org={org_name}",
+        # Tune layout so GitHub's PR preview doesn't crop the image too aggressively.
+        "cols=21",
+        "radius=16",
+        "space=3",
         # Mirror previous exclusions from get_repos()
         "exclude=.github",
         "exclude=hoa.moe",
