@@ -19,7 +19,7 @@ def get_repos(org_name, access_token):
     return repos
 
 def generate_contributors_url(file_path):
-    base_url = "https://contrib.nn.ci/api?repo="
+    base_url = "https://contrib.hoa.moe/api?repo="
     with open(file_path, 'r') as file:
         repos = file.read().splitlines()
     repos_param = '&repo='.join(repos)
