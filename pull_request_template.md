@@ -11,7 +11,7 @@
 ## ✅ 检查清单
 <!-- 在提交 PR 之前，请检查以下事项。如果只是文档的编写/修改，可以不用填写。 -->
 
-- [ ] 我已知晓并认同《参与指南》中的[公约](https://hoa.moe/blog/contribution-guide/edit-single-file-and-upload-file/#%e5%85%ac%e7%ba%a6)。
+- [ ] 我已知晓并认同《参与指南》中的[公约](https://wiki.hoa.moe/contribution-guide)。
 
 - [ ] 是否在合适的文件夹上传？
 <!-- 仓库惯例：assignments: 课程作业 / exams: 考试题 / labs: 实验报告 / notes: 笔记 -->
