@@ -27,11 +27,10 @@ jobs:
       - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
         with:
           python-version: '3.12'
-      - run: python -m pip install Pillow==12.3.0
       - run: python scripts/sync_contributors.py
       - name: Commit changed contributor files only
         run: |
-          git add -- profile/README.md images/contributors
+          git add -- profile/README.md
           if git diff --cached --quiet; then
             echo "Contributors are already up to date."
             exit 0
