@@ -1,0 +1,42 @@
+name: Contributors
+
+on:
+  schedule:
+    - cron: '17 2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    if: >-
+      github.repository == 'HITSZ-OpenAuto/.github' &&
+      github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    concurrency:
+      group: sync-profile-contributors
+      cancel-in-progress: false
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: main
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
+        with:
+          python-version: '3.12'
+      - run: python scripts/sync_contributors.py
+      - name: Commit changed contributor files only
+        run: |
+          git add -- profile/README.md
+          if git diff --cached --quiet; then
+            echo "Contributors are already up to date."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore: sync profile contributors'
+          # A concurrent main update must fail safely, never overwrite user edits.
+          git push origin HEAD:main
