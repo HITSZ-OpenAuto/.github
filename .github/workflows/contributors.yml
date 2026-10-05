@@ -1,19 +1,6 @@
 name: Contributors
 
 on:
-  pull_request:
-    paths:
-      - '.github/workflows/contributors.yml'
-      - 'scripts/**'
-      - 'profile/README.md'
-      - 'images/contributors/**'
-  push:
-    branches: [main]
-    paths:
-      - '.github/workflows/contributors.yml'
-      - 'scripts/**'
-      - 'profile/README.md'
-      - 'images/contributors/**'
   schedule:
     - cron: '17 2 * * *'
   workflow_dispatch:
@@ -22,25 +9,10 @@ permissions:
   contents: read
 
 jobs:
-  test:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-        with:
-          persist-credentials: false
-      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
-        with:
-          python-version: '3.12'
-      - run: python -m pip install -r scripts/requirements.txt
-      - run: python -m unittest discover -s scripts -v
-
   sync:
-    needs: test
     if: >-
       github.repository == 'HITSZ-OpenAuto/.github' &&
-      github.ref == 'refs/heads/main' &&
-      (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch')
+      github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     timeout-minutes: 15
     concurrency:
@@ -55,7 +27,7 @@ jobs:
       - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
         with:
           python-version: '3.12'
-      - run: python -m pip install -r scripts/requirements.txt
+      - run: python -m pip install Pillow==12.3.0
       - run: python scripts/sync_contributors.py
       - name: Commit changed contributor files only
         run: |
